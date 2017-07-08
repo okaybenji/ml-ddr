@@ -1,0 +1,17 @@
+{
+  "name": "ml-ddr",
+  "version": "0.0.1",
+  "description": "A stab at getting computers to generate DDR patterns from songs using ML",
+  "main": "index.js",
+  "dependencies": {
+    "brain.js": "^1.0.0-rc.3",
+    "jsmediatags": "^3.6.1",
+    "mp3-duration": "^1.0.10"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Benji Kay",
+  "license": "ISC"
+}
