@@ -1,22 +1,22 @@
 
-      #TITLE:Don't Know Much;
-      #SUBTITLE:;
-      #ARTIST:Linda Ronstadt feat. Aaron Neville;
+      #TITLE:Don't Know Much [with Aaron Neville];
+      #SUBTITLE:Don't Know Much [with Aaron Neville];
+      #ARTIST:Linda Ronstadt and Aaron Neville;
       #TITLETRANSLIT:;
       #SUBTITLETRANSLIT:;
       #ARTISTTRANSLIT:;
-      #CREDIT: Made with ml-ddr;
-      #BANNER:test.png;
-      #BACKGROUND:test.png;
-      #CDTITLE:Cry Like a Rainstorm, Howl Like the Wind;
+      #CREDIT:Made with ml-ddr;
+      #BANNER:test.jpg;
+      #BACKGROUND:test.jpg;
+      #CDTITLE:Cry Like A Rainstorm - HowI Like The Wind;
       #MUSIC:test.mp3;
-      #MUSICBYTES:8271466;
-      #MUSICLENGTH:214.936;
+      #MUSICBYTES:;
+      #MUSICLENGTH:;
       #OFFSET:;
       #SAMPLESTART:;
       #SAMPLELENGTH:;
       #SELECTABLE:YES;
-      #BPMS:0.000=;
+      #BPMS:0.000=130;
       #STOPS:;
       #BGCHANGES:;
     
