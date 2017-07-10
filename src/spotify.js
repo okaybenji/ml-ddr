@@ -8,8 +8,6 @@ const spotifier = {
       clientSecret: keys.secret,
     });
 
-    const log = (str) => console.log(str);
-
     const setToken = (res) => {
       spotify.setAccessToken(res.body.access_token);
       return Promise.resolve(); // just make synchronous call chainable
